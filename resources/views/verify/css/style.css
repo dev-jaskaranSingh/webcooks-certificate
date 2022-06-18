@@ -1,0 +1,27 @@
+td:before {
+    content: '';
+    display: block;
+    width: 12em;
+}
+td{
+    vertical-align: top;
+}
+.star{
+    color:purple;
+}
+.verified{
+    color:green;
+}
+.unverified{
+    color:red;
+}
+.dimStar{
+    color: lightgray;
+}
+.inlineImages{
+    margin-top: 15px;
+    margin-right: 5px;
+    display: inline;
+    width: 70px;
+    height:70px;
+}
